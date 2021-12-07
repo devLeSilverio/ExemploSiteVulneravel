@@ -1,17 +1,17 @@
-## Grupo:
+## :family: Grupo:
 
 - [Letícia Silverio](https://github.com/devLeSilverio) ✨
 - [João Victor da Silva](https://github.com/joaovds) :rocket:
 - [Henrique Martins](https://github.com/hmartiins) :boom:
 
-### Tarefas:
+### :bookmark_tabs: Tarefas:
 
 - [x] Identificar vulnerabilidades de sql injection
 - [x] Corrigir vulnerabilidades de sql injection
 - [x] Colocar um tempo definido para que a sessão seja válida
 - [ ] Mostrar em tela quando as credenciais inseridas estão incorretas
 
-### Vulnerabilidades:
+### :eyes: Vulnerabilidades:
 
 - **Os inputs estão vulneráveis à injeção de script sql:**
 
@@ -33,7 +33,7 @@ SELECT * FROM tb_admin WHERE nm_admin ='teste' or 1=1; show databases; #' AND ds
 teste' OR 1=1 limit 1; show databases; #
 ```
 
-- **Observações:**
+- :sunglasses: **Observações:**
   > Não existe mensagem de senha ou login inválidos
 
   > A senha está sendo enviada para o banco de dados sem estar criptograda, o que facilita o acesso aos dados sensíveis dos usuários
