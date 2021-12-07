@@ -11,6 +11,7 @@
 <body>
     <main>
         <?php 
+        session_cache_expire(60);
         session_start();
         if($_SESSION['acesso'] == "admin"){
         ?>
