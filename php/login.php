@@ -14,5 +14,6 @@ if (mysqli_num_rows($result) == 1) {
     $_SESSION['acesso'] = "admin";
     header('location:../inicio.php');
 } else {
+    echo "<script>alert('Usuário ou senha inválido, revise os campos!')</script>"
     header('location:../index.php');
 }

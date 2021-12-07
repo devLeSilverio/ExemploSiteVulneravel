@@ -7,6 +7,17 @@
     <title>Seja Bem Vindo - Site de Teste</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">
     <link rel="stylesheet" href="css/estilos.css">
+
+    <script> 
+        function verifyLogin() {
+            const senha = document.getElementById('senha').value;
+            const usuario = document.getElementById('usuario').value;
+
+            if(!senha || !usuario || senha.length <= 5) {
+                alert('Usuário ou senha inválido, revise os campos!')
+            }
+        }
+    </script>
 </head>
 <body>
     <main>
@@ -35,7 +46,7 @@
                 <div class="row login">
                     <div class="col-md-12">
                         <div class="form-group">
-                            <button class="btn btn-success btn-block">Entrar</button>
+                            <button onclick="verifyLogin()" class="btn btn-success btn-block">Entrar</button>
                         </div>
                     </div>
                 </div>
