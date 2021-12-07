@@ -2,6 +2,7 @@
 
 - Letícia Silverio
 - João Victor da Silva
+- Henrique Martins
 
 ### Tarefas:
 
