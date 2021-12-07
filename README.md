@@ -33,4 +33,4 @@ teste' OR 1=1 limit 1; show databases; #
 - **Observações:**
   > Não existe mensagem de senha ou login inválidos
 
-> A senha está sendo enviada para o banco de dados sem estar criptograda, o que facilita o acesso aos dados sensíveis dos usuários
+  > A senha está sendo enviada para o banco de dados sem estar criptograda, o que facilita o acesso aos dados sensíveis dos usuários
