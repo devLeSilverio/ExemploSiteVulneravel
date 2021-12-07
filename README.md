@@ -7,8 +7,9 @@
 ### Tarefas:
 
 - [x] Identificar vulnerabilidades de sql injection
-- [ ] Corrigir vulnerabilidades de sql injection
-- [ ] Colocar um tempo definido para que a sessão seja válida
+- [x] Corrigir vulnerabilidades de sql injection
+- [x] Colocar um tempo definido para que a sessão seja válida
+- [ ] Mostrar em tela quando as credenciais inseridas estão incorretas
 
 ### Vulnerabilidades:
 
@@ -36,3 +37,5 @@ teste' OR 1=1 limit 1; show databases; #
   > Não existe mensagem de senha ou login inválidos
 
   > A senha está sendo enviada para o banco de dados sem estar criptograda, o que facilita o acesso aos dados sensíveis dos usuários
+
+  > A senha do usuário deve ser criptografada pra que na ação de login seja feita uma comparação entre os hashs
