@@ -5,8 +5,9 @@
 
 ### Tarefas:
 
-- [x] Identificar vulnerabilidades
-- [ ] Corrigir vulnerabilidades
+- [x] Identificar vulnerabilidades de sql injection
+- [ ] Corrigir vulnerabilidades de sql injection
+- [ ] Colocar um tempo definido para que a sessão seja válida
 
 ### Vulnerabilidades:
 
