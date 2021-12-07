@@ -1,8 +1,8 @@
 ## Grupo:
 
 - [Letícia Silverio](https://github.com/devLeSilverio) ✨
-- [João Victor da Silva](https://github.com/joaovds)
-- [Henrique Martins](https://github.com/hmartiins)
+- [João Victor da Silva](https://github.com/joaovds) :rocket:
+- [Henrique Martins](https://github.com/hmartiins) :boom:
 
 ### Tarefas:
 
