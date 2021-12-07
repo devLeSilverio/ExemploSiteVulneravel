@@ -1,8 +1,8 @@
 ## Grupo:
 
-- Letícia Silverio
-- João Victor da Silva
-- Henrique Martins
+- [Letícia Silverio](https://github.com/devLeSilverio)
+- [João Victor da Silva](https://github.com/joaovds)
+- [Henrique Martins](https://github.com/hmartiins)
 
 ### Tarefas:
 
