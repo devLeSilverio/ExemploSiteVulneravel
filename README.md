@@ -9,7 +9,7 @@
 - [x] Identificar vulnerabilidades de sql injection
 - [x] Corrigir vulnerabilidades de sql injection
 - [x] Colocar um tempo definido para que a sessão seja válida
-- [ ] Mostrar em tela quando as credenciais inseridas estão incorretas
+- [x] Mostrar em tela quando as credenciais inseridas estão incorretas
 
 ### :eyes: Vulnerabilidades:
 
